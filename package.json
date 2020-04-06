@@ -1,0 +1,16 @@
+{
+  "name": "problems",
+  "version": "1.0.0",
+  "description": "Code problems that are being asked in interviews",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine --reporter=jasmine-console-reporter"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jasmine": "^3.5.0",
+    "jasmine-console-reporter": "^3.1.0"
+  }
+}
